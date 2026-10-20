@@ -4,6 +4,9 @@ Tableau dashboard analysing retail sales by month, category, region, discount an
 
 ![Dashboard](Dashboard.png)
 
+## Objective
+To analyse retail sales performance, identify revenue trends, evaluate discount performance and identify the strongest products and regions
+
 ## Questions answered
 - How has monthly revenue changed between 2025 and 2026?
 - Which categories, regions and products perform best?
